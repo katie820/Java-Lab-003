@@ -4,6 +4,15 @@
  * @author Katie Logefeil
  *
  * @since Version 1.0
+ *
+ */
+
+/**
+ *
+ * @author Trevor Hartman
+ * @author Katie Logefeil
+ *
+ * @since Version 1.0
  */
 
 // Import the Scanner tool used for reading (All external packages/libraries/apis are imported similarly this)
